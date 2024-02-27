@@ -1,0 +1,4 @@
+[filter "ageencrypt"]
+  clean = rage -p -
+  smudge = rage -p -a -o %f -
+  required = true
