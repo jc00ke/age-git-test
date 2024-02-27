@@ -1,1 +1,1 @@
-[dog|cat|mouse].txt filter=ageencrypt
+mouse.txt filter=ageencrypt
